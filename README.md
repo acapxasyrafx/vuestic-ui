@@ -1,45 +1,34 @@
-# vuestic-ui
-
-![CircleCI](https://img.shields.io/circleci/build/gh/epicmaxco/vuestic-ui/develop?label=tests)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/epicmaxco/vuestic-ui)
+# vue-cli
 
 ## Project setup
 ```
-yarn
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+yarn run build
 ```
 
 ### Run your tests
 ```
-yarn test
+yarn run test
 ```
 
 ### Lints and fixes files
 ```
-yarn lint
+yarn run lint
 ```
 
 ### Run your unit tests
 ```
-yarn test:unit
+yarn run test:unit
 ```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-## Development
-
-### Generators
-```
-yarn generate:component
-```
-Allows you to auto-generate boilerplate code for common parts of your application.
