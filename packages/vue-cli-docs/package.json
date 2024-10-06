@@ -11,7 +11,7 @@
     "core-js": "^3.8.3",
     "dedent": "^0.7.0",
     "docsearch.js": "^2.6.3",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "markdown-it": "^12.0.4",
     "prismjs": "^1.23.0",
     "raw-loader": "^4.0.2",
